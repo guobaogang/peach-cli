@@ -1,0 +1,9 @@
+[{
+        "name": "react",
+        "value": "git@github.com:guobaogang/wechat-yatzy-server.git"
+    },
+    {
+        "name": "vue",
+        "value": "git@github.com:guobaogang/vue-js-tmp.git"
+    }
+]
